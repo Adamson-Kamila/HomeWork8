@@ -33,7 +33,7 @@ void decreasingArray(int[,] array)
   {
     for (int j = 0; j < array.GetLength(1); j++)
     {
-      for (int k = j + 1; k < array.GetLength(0); k++)
+      for (int k = j + 1; k < array.GetLength(1); k++)
       {
         if (array[i, k] > array[i, j])
         {
