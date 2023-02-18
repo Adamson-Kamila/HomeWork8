@@ -1,0 +1,15 @@
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\bin\Debug\net6.0\Experience.exe
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\bin\Debug\net6.0\Experience.deps.json
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\bin\Debug\net6.0\Experience.runtimeconfig.json
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\bin\Debug\net6.0\Experience.dll
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\bin\Debug\net6.0\Experience.pdb
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.csproj.AssemblyReference.cache
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.AssemblyInfoInputs.cache
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.AssemblyInfo.cs
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.csproj.CoreCompileInputs.cache
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.dll
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\refint\Experience.dll
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.pdb
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\Experience.genruntimeconfig.cache
+C:\Users\cryst\OneDrive\Рабочий стол\HomeWork08\Experience\obj\Debug\net6.0\ref\Experience.dll
